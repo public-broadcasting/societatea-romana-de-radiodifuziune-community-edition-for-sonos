@@ -2,7 +2,7 @@
 
 **Societatea Română de Radiodifuziune (Community Edition)** is a dedicated and thus alternative integration to existing solutions from radio station aggregators, such as TuneIn or Sonos Radio.
 
-<img src="https://raw.githubusercontent.com/public-broadcasting/rai-play-sound-community-edition-for-sonos/main/img/rai-play-sound-community-edition-demo.gif">
+<img src="https://raw.githubusercontent.com/public-broadcasting/societatea-romana-de-radiodifuziune-community-edition-for-sonos/main/img/societatea-romana-de-radiodifuziune-community-edition-demo.gif">
 
 ---
 
